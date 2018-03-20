@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Manas Mohanty portfolio
+
+This is my Professional portfolio. This uses React and AWS.
